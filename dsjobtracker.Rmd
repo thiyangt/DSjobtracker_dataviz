@@ -1,0 +1,68 @@
+---
+title: "DSjobtracker - Data visualisation"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+```
+
+# Format 1
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Chart A
+
+```{r}
+
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Chart B
+
+```{r}
+
+```
+
+### Chart C
+
+```{r}
+
+```
+
+
+# Format 2
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+#### Main graph
+```{r}
+
+```
+
+
+Column {data-width=350}{.tabset .tabset-fade}
+-----------------------------------------------------------------------
+### C1
+
+```{r}
+
+```
+
+### C2
+
+```{r}
+
+```
+
+### C3
+
+```{r}
+
+```
