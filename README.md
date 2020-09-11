@@ -7,4 +7,4 @@ Software: Jayani
 
 Job Category: Thimani
 
-Rajitha: Education
+Education: Rajitha
