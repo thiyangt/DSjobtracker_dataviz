@@ -12,3 +12,6 @@ Education: Rajitha
 Word clouds : Malshan
 
 Experience: Sanduni
+
+knowledge and skills: Nimesha
+
