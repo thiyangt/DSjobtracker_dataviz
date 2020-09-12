@@ -15,3 +15,5 @@ Experience: Sanduni
 
 knowledge and skills: Nimesha
 
+Relationships between English proficiency with other variables, job title, salary, etc.: Piyumika
+
