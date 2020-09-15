@@ -17,7 +17,7 @@ knowledge and skills: Nimesha
 
 Relationships between English proficiency with other variables, job title, salary, etc./ All languages: Piyumika
 
-Salary: Open (Pending for someone to take)
+Salary: Chammika De Mel
 
 Company column: Imalsha
 
